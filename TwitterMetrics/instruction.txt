@@ -1,0 +1,8 @@
+twitterMetrics - create friends & unfollow table in database
+getfollower - create follower table in database
+followeranalysis - analyse follower and extract high value followers
+unfollow - use machine learning to predict users to unfollow
+time-series - create info table that tracks the number of followers, run it on a daily basis
+
+
+
